@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\KYC\source\repos\DataStruct_210505\DataStruct_210505\소스.cpp(13,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\KYC\source\repos\DataStruct_210505\DataStruct_210505\소스.cpp(16,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DataStruct_210505.vcxproj -> C:\Users\KYC\source\repos\DataStruct_210505\Debug\DataStruct_210505.exe
